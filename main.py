@@ -2,6 +2,8 @@ import hashlib
 import sys
 import pyfiglet
 
+
+# HASH CRACKER TEST
 ascii_banner = pyfiglet.figlet_format("Hash Cracker")
 print(ascii_banner)
 
